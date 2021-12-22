@@ -1,122 +1,242 @@
 [
     {
-        "Title": "A Light in the Attic",
-        "Price": "£51.77",
-        "UPC": "a897fe39b1053632",
-        "Availability": 22
-    },
-    {
-        "Title": "Tipping the Velvet",
-        "Price": "£53.74",
-        "UPC": "90fa61229261140a",
-        "Availability": 20
-    },
-    {
-        "Title": "Soumission",
-        "Price": "£50.10",
-        "UPC": "6957f44c3847a760",
-        "Availability": 20
-    },
-    {
-        "Title": "Sharp Objects",
-        "Price": "£47.82",
-        "UPC": "e00eb4fd7b871a48",
-        "Availability": 20
-    },
-    {
-        "Title": "Sapiens: A Brief History of Humankind",
-        "Price": "£54.23",
-        "UPC": "4165285e1663650f",
-        "Availability": 20
-    },
-    {
-        "Title": "The Requiem Red",
-        "Price": "£22.65",
-        "UPC": "f77dbf2323deb740",
+        "Title": "Chase Me (Paris Nights #2)",
+        "Price": "£25.27",
+        "UPC": "c2e46a2ee3b4a322",
         "Availability": 19
     },
     {
-        "Title": "The Dirty Little Secrets of Getting Your Dream Job",
-        "Price": "£33.34",
-        "UPC": "2597b5a345f45e1b",
+        "Title": "Black Dust",
+        "Price": "£34.53",
+        "UPC": "00bfed9e18bb36f3",
         "Availability": 19
     },
     {
-        "Title": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",
-        "Price": "£17.93",
-        "UPC": "e72a5dfc7e9267b2",
+        "Title": "Her Backup Boyfriend (The Sorensen Family #1)",
+        "Price": "£33.97",
+        "UPC": "2a97cffe61c3c4c7",
+        "Availability": 16
+    },
+    {
+        "Title": "First and First (Five Boroughs #3)",
+        "Price": "£15.97",
+        "UPC": "9e28048cea8d41f7",
+        "Availability": 16
+    },
+    {
+        "Title": "Fifty Shades Darker (Fifty Shades #2)",
+        "Price": "£21.96",
+        "UPC": "7add3f8e49ec0826",
+        "Availability": 16
+    },
+    {
+        "Title": "The Wedding Dress",
+        "Price": "£24.12",
+        "UPC": "623e1a180426039b",
+        "Availability": 15
+    },
+    {
+        "Title": "Suddenly in Love (Lake Haven #1)",
+        "Price": "£55.99",
+        "UPC": "203b7f94b7d6115f",
+        "Availability": 15
+    },
+    {
+        "Title": "Something More Than This",
+        "Price": "£16.24",
+        "UPC": "ca71e72655bece85",
+        "Availability": 15
+    },
+    {
+        "Title": "Doing It Over (Most Likely To #1)",
+        "Price": "£35.61",
+        "UPC": "3a11bb962ff45b78",
+        "Availability": 15
+    },
+    {
+        "Title": "The Wedding Pact (The O'Malleys #2)",
+        "Price": "£32.61",
+        "UPC": "c5cb9f885d8b3621",
+        "Availability": 14
+    },
+    {
+        "Title": "Hold Your Breath (Search and Rescue #1)",
+        "Price": "£28.82",
+        "UPC": "0b165bd4b9f42fd5",
+        "Availability": 14
+    },
+    {
+        "Title": "Dirty (Dive Bar #1)",
+        "Price": "£40.83",
+        "UPC": "df7e628bad5782b4",
+        "Availability": 12
+    },
+    {
+        "Title": "Take Me Home Tonight (Rock Star Romance #3)",
+        "Price": "£53.98",
+        "UPC": "cf62fa272b5f0fa3",
+        "Availability": 11
+    },
+    {
+        "Title": "Off the Hook (Fishing for Trouble #1)",
+        "Price": "£47.67",
+        "UPC": "b783ce08802cd1d1",
+        "Availability": 11
+    },
+    {
+        "Title": "A Gentleman's Position (Society of Gentlemen #3)",
+        "Price": "£14.75",
+        "UPC": "40c4bf520c17de54",
+        "Availability": 11
+    },
+    {
+        "Title": "Sit, Stay, Love",
+        "Price": "£20.90",
+        "UPC": "bd087cf6a846db75",
+        "Availability": 7
+    },
+    {
+        "Title": "A Girl's Guide to Moving On (New Beginnings #2)",
+        "Price": "£31.30",
+        "UPC": "cf3b86489890b9f2",
+        "Availability": 5
+    },
+    {
+        "Title": "The Perfect Play (Play by Play #1)",
+        "Price": "£59.99",
+        "UPC": "9cc207168a03470d",
+        "Availability": 4
+    },
+    {
+        "Title": "Dark Lover (Black Dagger Brotherhood #1)",
+        "Price": "£12.87",
+        "UPC": "2b69d289279aabfd",
+        "Availability": 4
+    },
+    {
+        "Title": "Changing the Game (Play by Play #2)",
+        "Price": "£13.38",
+        "UPC": "aaebac5fda798b1b",
+        "Availability": 4
+    },
+    {
+        "Title": "In Her Wake",
+        "Price": "£12.84",
+        "UPC": "23356462d1320d61",
         "Availability": 19
     },
     {
-        "Title": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
-        "Price": "£22.60",
-        "UPC": "e10e1e165dc8be4a",
+        "Title": "How Music Works",
+        "Price": "£37.32",
+        "UPC": "327f68a59745c102",
         "Availability": 19
     },
     {
-        "Title": "The Black Maria",
-        "Price": "£52.15",
-        "UPC": "1dfe412b8ac00530",
+        "Title": "Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",
+        "Price": "£30.52",
+        "UPC": "5674a18a29a43ced",
         "Availability": 19
     },
     {
-        "Title": "Starving Hearts (Triangular Trade Trilogy, #1)",
-        "Price": "£13.99",
-        "UPC": "0312262ecafa5a40",
+        "Title": "Chase Me (Paris Nights #2)",
+        "Price": "£25.27",
+        "UPC": "c2e46a2ee3b4a322",
         "Availability": 19
     },
     {
-        "Title": "Shakespeare's Sonnets",
-        "Price": "£20.66",
-        "UPC": "30a7f60cd76ca58c",
+        "Title": "Black Dust",
+        "Price": "£34.53",
+        "UPC": "00bfed9e18bb36f3",
         "Availability": 19
     },
     {
-        "Title": "Set Me Free",
-        "Price": "£17.46",
-        "UPC": "ce6396b0f23f6ecc",
+        "Title": "Birdsong: A Story in Pictures",
+        "Price": "£54.64",
+        "UPC": "9528d0948525bf5f",
         "Availability": 19
     },
     {
-        "Title": "Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)",
-        "Price": "£52.29",
-        "UPC": "3b1c02bac2a429e6",
+        "Title": "America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana",
+        "Price": "£22.50",
+        "UPC": "c7d160c2c0de586f",
         "Availability": 19
     },
     {
-        "Title": "Rip it Up and Start Again",
-        "Price": "£35.02",
-        "UPC": "a34ba96d4081e6a4",
+        "Title": "Aladdin and His Wonderful Lamp",
+        "Price": "£53.13",
+        "UPC": "904208d6aa64b655",
         "Availability": 19
     },
     {
-        "Title": "Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",
-        "Price": "£57.25",
-        "UPC": "deda3e61b9514b83",
-        "Availability": 19
+        "Title": "Worlds Elsewhere: Journeys Around Shakespeare’s Globe",
+        "Price": "£40.30",
+        "UPC": "4c28def39d850cdf",
+        "Availability": 18
     },
     {
-        "Title": "Olio",
-        "Price": "£23.88",
-        "UPC": "feb7cc7701ecf901",
-        "Availability": 19
+        "Title": "Wall and Piece",
+        "Price": "£44.18",
+        "UPC": "ccd9ffa25efabdea",
+        "Availability": 18
     },
     {
-        "Title": "Mesaerion: The Best Science Fiction Stories 1800-1849",
-        "Price": "£37.59",
-        "UPC": "e30f54cea9b38190",
-        "Availability": 19
+        "Title": "The Four Agreements: A Practical Guide to Personal Freedom",
+        "Price": "£17.66",
+        "UPC": "6258a1f6a6dcfe50",
+        "Availability": 18
     },
     {
-        "Title": "Libertarianism for Beginners",
-        "Price": "£51.33",
-        "UPC": "a18a4f574854aced",
-        "Availability": 19
+        "Title": "The Five Love Languages: How to Express Heartfelt Commitment to Your Mate",
+        "Price": "£31.05",
+        "UPC": "3c039985229453bf",
+        "Availability": 18
     },
     {
-        "Title": "It's Only the Himalayas",
-        "Price": "£45.17",
-        "UPC": "a22124811bfa8350",
-        "Availability": 19
+        "Title": "The Elephant Tree",
+        "Price": "£23.82",
+        "UPC": "5dada2b7be26bd03",
+        "Availability": 18
+    },
+    {
+        "Title": "The Bear and the Piano",
+        "Price": "£36.89",
+        "UPC": "9f6568e9c95f60b0",
+        "Availability": 18
+    },
+    {
+        "Title": "Sophie's World",
+        "Price": "£15.94",
+        "UPC": "6be3beb0793a53e7",
+        "Availability": 18
+    },
+    {
+        "Title": "Penny Maybe",
+        "Price": "£33.29",
+        "UPC": "668fe56b17cfcd4f",
+        "Availability": 18
+    },
+    {
+        "Title": "Maude (1883-1993):She Grew Up with the country",
+        "Price": "£18.02",
+        "UPC": "094b269567e1c300",
+        "Availability": 18
+    },
+    {
+        "Title": "In a Dark, Dark Wood",
+        "Price": "£19.63",
+        "UPC": "19ed25f4641d5efd",
+        "Availability": 18
+    },
+    {
+        "Title": "Behind Closed Doors",
+        "Price": "£52.22",
+        "UPC": "be5cc846f45496fb",
+        "Availability": 18
+    },
+    {
+        "Title": "You can't bury them all: Poems",
+        "Price": "£33.63",
+        "UPC": "55f9da0c5eea2e10",
+        "Availability": 17
     }
 ]

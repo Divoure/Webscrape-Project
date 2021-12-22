@@ -18,5 +18,5 @@ def make_json(output_list, headers):
                 list_of_objects.append(obj)
                 obj = {}
 
-    print(list_of_objects)
+    #print(list_of_objects)
     return list_of_objects

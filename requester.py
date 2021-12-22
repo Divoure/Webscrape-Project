@@ -14,4 +14,4 @@ def get_response(url):
     if res.ok:
         return res
     else:
-        raise SystemExit("Request was not OK\n Exiting..")
+        res.raise_for_status()
